@@ -14,8 +14,8 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <center>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atillakurtulussimsek&show_icons=true&theme=dark&locale=en" alt="atillakurtulussimsek" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atillakurtulussimsek&show_icons=true&theme=dark&locale=en&layout=compact" alt="atillakurtulussimsek" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atillakurtulussimsek&show_icons=true&theme=dark&locale=en" alt="atillakurtulussimsek" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atillakurtulussimsek&show_icons=true&theme=dark&locale=en&layout=compact" alt="atillakurtulussimsek" />
   </center>
   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -84,7 +84,7 @@
 
 ## 📊 What am i doing right now?
 
-<center>[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/432476132609228800)](https://discord.com/users/432476132609228800)</center>
+<img align="center" src="https://lanyard-profile-readme.vercel.app/api/432476132609228800" alt="atillakurtulussimsek" />
 
 ## 🙋‍♂️ Connect with me
 
