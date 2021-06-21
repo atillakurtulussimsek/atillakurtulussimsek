@@ -36,10 +36,6 @@
 <img alt="AlbaySIMSEK's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atillakurtulussimsek&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 </details>
 
-## 📊 What am i doing right now?
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/432476132609228800)](https://discord.com/users/432476132609228800)
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -85,6 +81,10 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+## 📊 What am i doing right now?
+
+<p align="center">[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/432476132609228800)](https://discord.com/users/432476132609228800)</p>
 
 ## 🙋‍♂️ Connect with me
 
