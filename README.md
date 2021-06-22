@@ -83,8 +83,7 @@
 </p>
 
 ## 📊 What am i doing right now?
-
-<img align="center" src="https://lanyard-profile-readme.vercel.app/api/432476132609228800" alt="atillakurtulussimsek" />
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/432476132609228800)](https://discord.com/users/432476132609228800)
 
 ## 🙋‍♂️ Connect with me
 
