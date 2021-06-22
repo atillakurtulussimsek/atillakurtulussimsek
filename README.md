@@ -82,9 +82,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 📊 What am i doing right now?
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/432476132609228800)](https://discord.com/users/432476132609228800)
-
 ## 🙋‍♂️ Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
