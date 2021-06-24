@@ -38,7 +38,7 @@
 <details>
   <summary>😔 Discord Status</summary>
   <br/>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/432476132609228800)](https://discord.com/users/432476132609228800)
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/432476132609228800)
 </details>
 
 ## 🛠️ My favorite tools
