@@ -35,11 +35,6 @@
   <br/>
 <img alt="AlbaySIMSEK's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atillakurtulussimsek&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 </details>
-<details>
-  <summary>😔 Discord Status</summary>
-  <br/>
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/432476132609228800)
-</details>
 
 ## 🛠️ My favorite tools
 
