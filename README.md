@@ -31,6 +31,11 @@
 </p>
 </details>
 <details>
+  <summary>🎶 Spotify Status</summary>
+  <br/>
+<img alt="AlbaySIMSEK's Spotify Activity" src="https://spotify-github-profile.vercel.app/api/view?uid=it62f4alrmq14d7iims75qpks&cover_image=true&theme=novatorem&bar_color=0011ff&bar_color_cover=true"/>
+</details>
+<details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 <img alt="AlbaySIMSEK's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atillakurtulussimsek&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
