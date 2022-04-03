@@ -31,17 +31,14 @@
 </p>
 </details>
 <details>
- <summary>🎶 Spotify</summary>
- <br />
-![AlbaySIMSEK was here](https://spotify-recently-played-readme.vercel.app/api?user=it62f4alrmq14d7iims75qpks)
-</details>
-<details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 <img alt="AlbaySIMSEK's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atillakurtulussimsek&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 </details>
 
 ## 🛠️ My favorite tools
+
+![AlbaySIMSEK was here](https://spotify-recently-played-readme.vercel.app/api?user=it62f4alrmq14d7iims75qpks)
 
 ### 👨‍💻 Programming languages
 
