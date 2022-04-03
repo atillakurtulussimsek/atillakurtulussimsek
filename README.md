@@ -34,7 +34,14 @@
   <summary>🎶 Spotify Status</summary>
   <br/>
   <p align="center">
-    <img alt="AlbaySIMSEK's Spotify Activity" src="https://spotify-github-profile.vercel.app/api/view?uid=it62f4alrmq14d7iims75qpks&cover_image=true&theme=novatorem&bar_color=0011ff&bar_color_cover=true"/>
+    <img alt="AlbaySIMSEK's Spotify Activity" src="https://spotify-github-profile.vercel.app/api/view?uid=it62f4alrmq14d7iims75qpks&cover_image=true&theme=novatorem&bar_color=0011ff&bar_color_cover=false"/>
+   </p>
+</details>
+<details>
+  <summary>🎮 Discord Status</summary>
+  <br/>
+  <p align="center">
+    <img alt="AlbaySIMSEK's Discord Activity" src="https://lanyard.cnrad.dev/api/432476132609228800"/>
    </p>
 </details>
 <details>
