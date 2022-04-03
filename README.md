@@ -33,9 +33,9 @@
 <details>
   <summary>🎶 Spotify Status</summary>
   <br/>
-  <center>
+  <p align="center">
     <img alt="AlbaySIMSEK's Spotify Activity" src="https://spotify-github-profile.vercel.app/api/view?uid=it62f4alrmq14d7iims75qpks&cover_image=true&theme=novatorem&bar_color=0011ff&bar_color_cover=true"/>
-   </center>
+   </p>
 </details>
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
