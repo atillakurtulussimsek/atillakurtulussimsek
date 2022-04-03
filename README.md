@@ -43,8 +43,6 @@
 
 ## 🛠️ My favorite tools
 
-![AlbaySIMSEK was here](https://spotify-recently-played-readme.vercel.app/api?user=it62f4alrmq14d7iims75qpks)
-
 ### 👨‍💻 Programming languages
 
 <p>
