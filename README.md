@@ -33,8 +33,8 @@
 <details>
  <summary>🎶 Spotify</summary>
  <br />
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=it62f4alrmq14d7iims75qpks&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=it62f4alrmq14d7iims75qpks&redirect=true) 
-  </details>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=it62f4alrmq14d7iims75qpks&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=it62f4alrmq14d7iims75qpks&redirect=true)
+</details>
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
